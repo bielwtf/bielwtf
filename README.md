@@ -5,13 +5,8 @@
     <img
 	style="min-width: 134px; max-height: 134px;"
 	 width="320"
-        src="https://lanyard-profile-readme.vercel.app/api/166331543378198528?theme=dark&bg=000000&animated=false&borderRadius=10px"
+        src="https://lanyard-profile-readme.vercel.app/api/734529813112684614?theme=dark&bg=000000&animated=false&borderRadius=10px"
      />
-     <img
-	style="min-width: 164px;"
-	height="164"
-        src="https://streak-stats.demolab.com/?user=guustavocl&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      />
    </div>
 
 <p align="center">
