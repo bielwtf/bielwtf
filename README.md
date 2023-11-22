@@ -5,7 +5,7 @@
     <img
 	style="min-width: 134px; max-height: 134px;"
 	 width="320"
-        src="https://lanyard-profile-readme.vercel.app/api/734529813112684614?theme=dark&bg=000000&animated=false&borderRadius=10px"
+        src="https://lanyard-profile-readme.vercel.app/api/347796715363106816?theme=dark&bg=000000&animated=false&borderRadius=10px"
      />
      <img
 	style="min-width: 164px;"
